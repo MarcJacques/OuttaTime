@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TimeCircuitsViewController.swift
 //  OuttaTime
 //
 //  Created by Marc Jacques on 2/18/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TimeCircuitsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
